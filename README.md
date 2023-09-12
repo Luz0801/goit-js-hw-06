@@ -1,2 +1,2 @@
 # goit-js-hw-06
-modulo 6 JS tarea 1
+modulo 6 JS
